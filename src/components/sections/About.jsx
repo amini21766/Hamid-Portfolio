@@ -13,7 +13,7 @@ export const About = () => {
 
   const BackendSkills = ["Node.js", "Express.js",   "API", "Restful APIs" ,'API Integration', "MongoDB", "MySQL"];
 
-  const ToolsAndTechnologies = ["Git", "GitHub", "AWS", "SEO", "Agile", "Project Management"]
+  const ToolsAndTechnologies = ["Git", "GitHub", "AWS", "SEO", "Postman", "Agile", "Project Management"]
 
   const VersionControl = ["Git", "GitHub"];
   return (
